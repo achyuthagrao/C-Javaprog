@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main()
+	{
+		//printf("hello world");
+		//printf("hello achyutha");
+		/*printf("hi udupi");
+		printf("hi mangalore");*/
+	}
+
